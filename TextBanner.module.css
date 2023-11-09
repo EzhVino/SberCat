@@ -20,7 +20,7 @@
     font-weight: 400;
 }
 
-@media (max-width: 333px) {
+@media (max-width: 498px) {
     .text {
         font-size: 64px;
         font-weight: 400;
